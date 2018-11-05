@@ -5,4 +5,4 @@ non testé, j'avais déjà appelé le fichier avec l'extension .md par habitude.
 ## - Poussez la nouvelle validation vers le dépôt distant
 git add .
 git commit -m "..."
-git push origin master
+git push
